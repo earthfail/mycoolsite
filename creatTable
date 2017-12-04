@@ -1,0 +1,6 @@
+CREATE TABLE pictures (
+	id int(11) NOT null PRIMARY KEY AUTO_INCREMENT,
+    fileName varchar(128) NOT null,
+  	description text NOT null,
+    price int(5) NOT null
+);

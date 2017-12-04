@@ -1,0 +1,6 @@
+# ignore testing files
+Testing/*
+# tmp files from emacs
+*~
+Css/*~
+includes/*~
